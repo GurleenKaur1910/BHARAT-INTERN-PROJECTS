@@ -1,5 +1,5 @@
 # BHARAT-INTERN-PROJECTS
-Bharat Intern Projects
+
 ## 1. Movie Recommendation System
 
 Project Overview:
